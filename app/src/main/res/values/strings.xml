@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MD Navigation Drawer</string>
+    <string name="EmailHere">Email address here</string>
+    <string name="NameHere">Full name here</string>
+    <string name="Message">Message</string>
+    <string name="Chat">Chat</string>
+    <string name="Profile">Profile</string>
+    <string name="Communicate">Communicate</string>
+    <string name="Share">Share</string>
+    <string name="Send">Send</string>
+</resources>
